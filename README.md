@@ -1,4 +1,4 @@
-
+<div align="center"><img src="/images/Logo2.png" width="600"></div>
 
 
 
@@ -71,7 +71,19 @@ export functions, or indirectly by uploading/downloading data to/from localStora
 
 
 
+
 <h2>Android App</h2>
+
+
+<div align="center"><img src="/images/445356369_1128093048472410_663636778893172902_n.jpg" width="200">
+                     <img src="/images/441940586_425141393729051_6349265906984035757_n.jpg" width="200">
+   <img src="/images/445387455_2742238922604467_6233170678910385178_n.jpg" width="200">
+   <img src="/images/441604005_1013722120359972_6002101932070194449_n.jpg" width="200">
+   <img src="/images/441655788_982152443693306_1325997626572135694_n.jpg" width="200">
+   <img src="/images/
+441539402_1141261173870268_3173134296469419623_n.jpg" width="200">
+       <img src="/images/441539402_1141261173870268_3173134296469419623_n.jpg" width="200"></div>
+       
 
 <p>Threaded mobile app that employees can check their shifts, add their availability, send direct messages to the employers and also add comments to their shifts.</p>
 
