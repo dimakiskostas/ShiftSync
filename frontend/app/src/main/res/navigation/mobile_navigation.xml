@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_log_in">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.shift.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_nav_profile"
+            app:destination="@id/nav_profile" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.shift.ui.gallery.GalleryFragment"
+        android:label="Message"
+        tools:layout="@layout/fragment_gallery" >
+        <action
+            android:id="@+id/action_nav_gallery_to_nav_profile"
+            app:destination="@id/nav_profile" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.shift.ui.slideshow.SlideshowFragment"
+        android:label="Report"
+        tools:layout="@layout/fragment_slideshow" >
+        <action
+            android:id="@+id/action_nav_slideshow_to_nav_profile"
+            app:destination="@id/nav_profile" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_log_in"
+        android:name="com.example.shift.ui.Login.LoginFragment"
+        android:label="Log in"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_nav_log_in_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.example.shift.ui.Profile.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/nav_availability"
+        android:name="com.example.shift.ui.Availability.AvailabilityFragment"
+        android:label="Availability"
+        tools:layout="@layout/fragment_availability" >
+        <action
+            android:id="@+id/action_nav_availability_to_nav_profile"
+            app:destination="@id/nav_profile" />
+    </fragment>
+
+
+
+</navigation>
