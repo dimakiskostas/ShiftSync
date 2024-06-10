@@ -1,0 +1,370 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.databinding:viewbinding:8.0.1] C:\Users\costa\.gradle\caches\transforms-3\f9cee772ff2257344eaa00e2a9e0d8b5\transformed\viewbinding-8.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\costa\.gradle\caches\transforms-3\637368ae8f00e6b62f8b62c2c0e7a14c\transformed\navigation-common-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\costa\.gradle\caches\transforms-3\6c943549ae0dc3741cdec7a262501356\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.7.7] C:\Users\costa\.gradle\caches\transforms-3\55005bfca0f8c5d5c71a0b48fedd5424\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.7.7] C:\Users\costa\.gradle\caches\transforms-3\ba642897e8aac81642efbd8bee6ac22c\transformed\navigation-ui-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\costa\.gradle\caches\transforms-3\bb64389bc845fea852405b2a5c22f045\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\costa\.gradle\caches\transforms-3\d3b64a44981f6730d3dc38c232befd32\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\costa\.gradle\caches\transforms-3\0cee807731b4cfbecd4050bffc7ecec6\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\costa\.gradle\caches\transforms-3\e823a5dda738fb7207ec40a9ecdd8129\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\b75cbc890822d61b7a8cf57428e7ec23\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\costa\.gradle\caches\transforms-3\099d2d1881a5af7ba05e3c648330b384\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\costa\.gradle\caches\transforms-3\5235a1600e0d051128370f902d757a10\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\costa\.gradle\caches\transforms-3\bfaa2e39495bbe843bf6044ca966a154\transformed\activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\costa\.gradle\caches\transforms-3\c962afbf329a080f9c8768aedcf6ef7c\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\0386c68ab7ced15aea86b7b70585d614\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\costa\.gradle\caches\transforms-3\3434df186aeb3cf0d9e8211366532af8\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\costa\.gradle\caches\transforms-3\8970cb21fadd4008c68c6eec0423af42\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\dd35c46c076f49c5c32db21adc9edf6f\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\5e489eaa202a229012e41845b49980ed\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\7739824c754a432f9d86e16c8c86ff0f\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\6d3c56997bc6ad5cbeb49cfe3f0cd2e3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\013c9194735f6b7195657ba4f9135656\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\dc362ef58a7deeafde6a4064e10efc1e\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\costa\.gradle\caches\transforms-3\5ede3278e883d49930a36dc8c7990eb1\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\2f996e6bbf8fae7e4c40424cd3552fd3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\2250f7b1ab9557d5657b92483f06eb00\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\7252e0d2ef010e3195915fbd0b2d3325\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\fae9efa06fd2cb60e3617034c6303c60\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\2022b55870ce2f6598f82e692381c8be\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\costa\.gradle\caches\transforms-3\24fb4a96b5a399879a75f8beab1248e9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\costa\.gradle\caches\transforms-3\0b97cbb9b3f701d9fad496d68b7a4312\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\costa\.gradle\caches\transforms-3\54f8f0214dfe30c965f071184c100b2e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\costa\.gradle\caches\transforms-3\52ec35b754f75b0e10ded128a31f4e2e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\costa\.gradle\caches\transforms-3\f8923793e3608f6a5a596c1f8cf29eeb\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\41f53933c19263b06a83d914e1452f4b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\costa\.gradle\caches\transforms-3\4477cdfda5f123abf952c8efea4c4a2a\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\db49f4780b9136f5cf8fc0e75af79fac\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\a30ab106b30c4ad02d6df513c8fb4b61\transformed\core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\09ec60adff46c1de98b1e7f9a5466171\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\050cc7c34a34010e9c7f4e24e315698c\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\90ae3801ca099f3b1a3c5aa70e05224d\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\33e76f9ed2310ef421af1913ef4f811d\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\842b3dfc0644dc5bfd8fa880584e0c11\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\312c732409815ed050d72bcd3ab910ef\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\costa\.gradle\caches\transforms-3\69c548dd230327f165c5021d6262fb80\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\costa\.gradle\caches\transforms-3\8a946d2fc5fcd14681822374aed03a1a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\2f1bb5263c4b5ac03d678a0b597a60a5\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\costa\.gradle\caches\transforms-3\8f3bf2f9cbb44d7793d11be3205a9d7b\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\50b6db4d30973008bd1e20743ca5b270\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\7db2aacaf5c0e258966e35a83d9995ba\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\5ec38c558705e4d51c1cd1644e7b9481\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\ef41ad1de6652bdfc935f1f371e39b47\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\costa\.gradle\caches\transforms-3\fb8ec843cc3c896c598325cf0ed78d34\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:6:5-27:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\costa\.gradle\caches\transforms-3\bb64389bc845fea852405b2a5c22f045\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\costa\.gradle\caches\transforms-3\bb64389bc845fea852405b2a5c22f045\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\costa\.gradle\caches\transforms-3\d3b64a44981f6730d3dc38c232befd32\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\costa\.gradle\caches\transforms-3\d3b64a44981f6730d3dc38c232befd32\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\6d3c56997bc6ad5cbeb49cfe3f0cd2e3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\6d3c56997bc6ad5cbeb49cfe3f0cd2e3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\db49f4780b9136f5cf8fc0e75af79fac\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\db49f4780b9136f5cf8fc0e75af79fac\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\09ec60adff46c1de98b1e7f9a5466171\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\09ec60adff46c1de98b1e7f9a5466171\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\costa\.gradle\caches\transforms-3\69c548dd230327f165c5021d6262fb80\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\costa\.gradle\caches\transforms-3\69c548dd230327f165c5021d6262fb80\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\costa\.gradle\caches\transforms-3\8a946d2fc5fcd14681822374aed03a1a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\costa\.gradle\caches\transforms-3\8a946d2fc5fcd14681822374aed03a1a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\09ec60adff46c1de98b1e7f9a5466171\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:9:9-54
+	android:roundIcon
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:15:9-29
+	android:icon
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:14:9-43
+	android:dataExtractionRules
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:8:9-65
+activity#com.example.shift.MainActivity
+ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:16:9-26:20
+	android:label
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:19:13-45
+	android:exported
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:18:13-36
+	android:theme
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:20:13-59
+	android:name
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.0.1] C:\Users\costa\.gradle\caches\transforms-3\f9cee772ff2257344eaa00e2a9e0d8b5\transformed\viewbinding-8.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.0.1] C:\Users\costa\.gradle\caches\transforms-3\f9cee772ff2257344eaa00e2a9e0d8b5\transformed\viewbinding-8.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\costa\.gradle\caches\transforms-3\637368ae8f00e6b62f8b62c2c0e7a14c\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\costa\.gradle\caches\transforms-3\637368ae8f00e6b62f8b62c2c0e7a14c\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\costa\.gradle\caches\transforms-3\6c943549ae0dc3741cdec7a262501356\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\costa\.gradle\caches\transforms-3\6c943549ae0dc3741cdec7a262501356\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.7] C:\Users\costa\.gradle\caches\transforms-3\55005bfca0f8c5d5c71a0b48fedd5424\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.7] C:\Users\costa\.gradle\caches\transforms-3\55005bfca0f8c5d5c71a0b48fedd5424\transformed\navigation-fragment-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.7] C:\Users\costa\.gradle\caches\transforms-3\ba642897e8aac81642efbd8bee6ac22c\transformed\navigation-ui-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.7] C:\Users\costa\.gradle\caches\transforms-3\ba642897e8aac81642efbd8bee6ac22c\transformed\navigation-ui-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\costa\.gradle\caches\transforms-3\bb64389bc845fea852405b2a5c22f045\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\costa\.gradle\caches\transforms-3\bb64389bc845fea852405b2a5c22f045\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\costa\.gradle\caches\transforms-3\d3b64a44981f6730d3dc38c232befd32\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\costa\.gradle\caches\transforms-3\d3b64a44981f6730d3dc38c232befd32\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\costa\.gradle\caches\transforms-3\0cee807731b4cfbecd4050bffc7ecec6\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\costa\.gradle\caches\transforms-3\0cee807731b4cfbecd4050bffc7ecec6\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\costa\.gradle\caches\transforms-3\e823a5dda738fb7207ec40a9ecdd8129\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\costa\.gradle\caches\transforms-3\e823a5dda738fb7207ec40a9ecdd8129\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\b75cbc890822d61b7a8cf57428e7ec23\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\b75cbc890822d61b7a8cf57428e7ec23\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\costa\.gradle\caches\transforms-3\099d2d1881a5af7ba05e3c648330b384\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\costa\.gradle\caches\transforms-3\099d2d1881a5af7ba05e3c648330b384\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\costa\.gradle\caches\transforms-3\5235a1600e0d051128370f902d757a10\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\costa\.gradle\caches\transforms-3\5235a1600e0d051128370f902d757a10\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\costa\.gradle\caches\transforms-3\bfaa2e39495bbe843bf6044ca966a154\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\costa\.gradle\caches\transforms-3\bfaa2e39495bbe843bf6044ca966a154\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\costa\.gradle\caches\transforms-3\c962afbf329a080f9c8768aedcf6ef7c\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\costa\.gradle\caches\transforms-3\c962afbf329a080f9c8768aedcf6ef7c\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\0386c68ab7ced15aea86b7b70585d614\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\0386c68ab7ced15aea86b7b70585d614\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\costa\.gradle\caches\transforms-3\3434df186aeb3cf0d9e8211366532af8\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\costa\.gradle\caches\transforms-3\3434df186aeb3cf0d9e8211366532af8\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\costa\.gradle\caches\transforms-3\8970cb21fadd4008c68c6eec0423af42\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\costa\.gradle\caches\transforms-3\8970cb21fadd4008c68c6eec0423af42\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\dd35c46c076f49c5c32db21adc9edf6f\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\dd35c46c076f49c5c32db21adc9edf6f\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\5e489eaa202a229012e41845b49980ed\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\5e489eaa202a229012e41845b49980ed\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\7739824c754a432f9d86e16c8c86ff0f\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\7739824c754a432f9d86e16c8c86ff0f\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\6d3c56997bc6ad5cbeb49cfe3f0cd2e3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\6d3c56997bc6ad5cbeb49cfe3f0cd2e3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\013c9194735f6b7195657ba4f9135656\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\013c9194735f6b7195657ba4f9135656\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\dc362ef58a7deeafde6a4064e10efc1e\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\dc362ef58a7deeafde6a4064e10efc1e\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\costa\.gradle\caches\transforms-3\5ede3278e883d49930a36dc8c7990eb1\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\costa\.gradle\caches\transforms-3\5ede3278e883d49930a36dc8c7990eb1\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\2f996e6bbf8fae7e4c40424cd3552fd3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\2f996e6bbf8fae7e4c40424cd3552fd3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\2250f7b1ab9557d5657b92483f06eb00\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\2250f7b1ab9557d5657b92483f06eb00\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\7252e0d2ef010e3195915fbd0b2d3325\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\7252e0d2ef010e3195915fbd0b2d3325\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\fae9efa06fd2cb60e3617034c6303c60\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\fae9efa06fd2cb60e3617034c6303c60\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\2022b55870ce2f6598f82e692381c8be\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\2022b55870ce2f6598f82e692381c8be\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\costa\.gradle\caches\transforms-3\24fb4a96b5a399879a75f8beab1248e9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\costa\.gradle\caches\transforms-3\24fb4a96b5a399879a75f8beab1248e9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\costa\.gradle\caches\transforms-3\0b97cbb9b3f701d9fad496d68b7a4312\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\costa\.gradle\caches\transforms-3\0b97cbb9b3f701d9fad496d68b7a4312\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\costa\.gradle\caches\transforms-3\54f8f0214dfe30c965f071184c100b2e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\costa\.gradle\caches\transforms-3\54f8f0214dfe30c965f071184c100b2e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\costa\.gradle\caches\transforms-3\52ec35b754f75b0e10ded128a31f4e2e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\costa\.gradle\caches\transforms-3\52ec35b754f75b0e10ded128a31f4e2e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\costa\.gradle\caches\transforms-3\f8923793e3608f6a5a596c1f8cf29eeb\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\costa\.gradle\caches\transforms-3\f8923793e3608f6a5a596c1f8cf29eeb\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\41f53933c19263b06a83d914e1452f4b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\41f53933c19263b06a83d914e1452f4b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\costa\.gradle\caches\transforms-3\4477cdfda5f123abf952c8efea4c4a2a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\costa\.gradle\caches\transforms-3\4477cdfda5f123abf952c8efea4c4a2a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\db49f4780b9136f5cf8fc0e75af79fac\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\db49f4780b9136f5cf8fc0e75af79fac\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\a30ab106b30c4ad02d6df513c8fb4b61\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\a30ab106b30c4ad02d6df513c8fb4b61\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\09ec60adff46c1de98b1e7f9a5466171\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\09ec60adff46c1de98b1e7f9a5466171\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\050cc7c34a34010e9c7f4e24e315698c\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\050cc7c34a34010e9c7f4e24e315698c\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\90ae3801ca099f3b1a3c5aa70e05224d\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\90ae3801ca099f3b1a3c5aa70e05224d\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\33e76f9ed2310ef421af1913ef4f811d\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\33e76f9ed2310ef421af1913ef4f811d\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\842b3dfc0644dc5bfd8fa880584e0c11\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\842b3dfc0644dc5bfd8fa880584e0c11\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\312c732409815ed050d72bcd3ab910ef\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\312c732409815ed050d72bcd3ab910ef\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\costa\.gradle\caches\transforms-3\69c548dd230327f165c5021d6262fb80\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\costa\.gradle\caches\transforms-3\69c548dd230327f165c5021d6262fb80\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\costa\.gradle\caches\transforms-3\8a946d2fc5fcd14681822374aed03a1a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\costa\.gradle\caches\transforms-3\8a946d2fc5fcd14681822374aed03a1a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\2f1bb5263c4b5ac03d678a0b597a60a5\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\2f1bb5263c4b5ac03d678a0b597a60a5\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\costa\.gradle\caches\transforms-3\8f3bf2f9cbb44d7793d11be3205a9d7b\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\costa\.gradle\caches\transforms-3\8f3bf2f9cbb44d7793d11be3205a9d7b\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\50b6db4d30973008bd1e20743ca5b270\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\50b6db4d30973008bd1e20743ca5b270\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\7db2aacaf5c0e258966e35a83d9995ba\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\7db2aacaf5c0e258966e35a83d9995ba\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\5ec38c558705e4d51c1cd1644e7b9481\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\5ec38c558705e4d51c1cd1644e7b9481\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\ef41ad1de6652bdfc935f1f371e39b47\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\ef41ad1de6652bdfc935f1f371e39b47\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\costa\.gradle\caches\transforms-3\fb8ec843cc3c896c598325cf0ed78d34\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\costa\.gradle\caches\transforms-3\fb8ec843cc3c896c598325cf0ed78d34\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\costa\Uni\kot\ShiftSync-front\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\6d3c56997bc6ad5cbeb49cfe3f0cd2e3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\6d3c56997bc6ad5cbeb49cfe3f0cd2e3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\costa\.gradle\caches\transforms-3\8a946d2fc5fcd14681822374aed03a1a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\costa\.gradle\caches\transforms-3\8a946d2fc5fcd14681822374aed03a1a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\costa\.gradle\caches\transforms-3\1aadcf4e0f237724308e0370743d8486\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\6d3c56997bc6ad5cbeb49cfe3f0cd2e3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\6d3c56997bc6ad5cbeb49cfe3f0cd2e3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\costa\.gradle\caches\transforms-3\6d3c56997bc6ad5cbeb49cfe3f0cd2e3\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\db49f4780b9136f5cf8fc0e75af79fac\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\db49f4780b9136f5cf8fc0e75af79fac\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\db49f4780b9136f5cf8fc0e75af79fac\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\db49f4780b9136f5cf8fc0e75af79fac\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\db49f4780b9136f5cf8fc0e75af79fac\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\costa\.gradle\caches\transforms-3\db49f4780b9136f5cf8fc0e75af79fac\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\09ec60adff46c1de98b1e7f9a5466171\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\09ec60adff46c1de98b1e7f9a5466171\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\09ec60adff46c1de98b1e7f9a5466171\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+permission#com.example.shift.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\09ec60adff46c1de98b1e7f9a5466171\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\09ec60adff46c1de98b1e7f9a5466171\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\09ec60adff46c1de98b1e7f9a5466171\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\09ec60adff46c1de98b1e7f9a5466171\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\09ec60adff46c1de98b1e7f9a5466171\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.shift.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\09ec60adff46c1de98b1e7f9a5466171\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\costa\.gradle\caches\transforms-3\09ec60adff46c1de98b1e7f9a5466171\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\costa\.gradle\caches\transforms-3\a1c9dde87214403e3e45e055460704b7\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
