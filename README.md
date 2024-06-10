@@ -5,8 +5,8 @@
 # ShiftSync
 Development of information systems applications project 2024
 
-Dimakis Konstantinos 3200255
-Alexakos Mihalis 3200003
+Dimakis Konstantinos 3200255, 
+Alexakos Mihalis 3200003,
 Panos Dimitris 3200127
 
 
